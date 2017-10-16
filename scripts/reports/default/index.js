@@ -1,0 +1,1 @@
+module.expore = require('./DefaultReport');
