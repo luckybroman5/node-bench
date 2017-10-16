@@ -69,6 +69,15 @@ $ mocha tests/state.spec.js
 - The mocha test will just skip over newlines so a sloppy copy and paste is even enough to combine logs from multiple servers.
     - The JSON parser by default is inteded and will throw an error to kill the process in the event of malformed json.
 
+# Utilities
+Out of the box, is a log parser which can be ran on any file by simply running:
+
+```npm run parseLog {file}```
+
+- It will pretty print the organized request chains.
+- This is the same code that the log verifier uses
+
+
 # Config Variables
 
 ### Server
