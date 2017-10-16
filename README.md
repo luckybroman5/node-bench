@@ -1,3 +1,5 @@
+![Work In Progress](http://cdn1.sportngin.com/attachments/photo/8058/6943/Work_In_Progress_large.png)
+
 # What is this?
 This is a barebones, isomorphic, nodejs web server built to test different versions, builds, and configurations of the nodejs platform.
 
